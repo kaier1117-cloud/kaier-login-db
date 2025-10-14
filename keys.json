@@ -1,0 +1,10 @@
+{
+    "KAIER-7796": {
+        "username": "Kaier",
+        "expire": "2025-12-31"
+    },
+    "TEST-1234": {
+        "username": "Tester",
+        "expire": "2025-10-31"
+    }
+}
